@@ -1,0 +1,34 @@
+body{
+    background-image: url("https://mobimg.b-cdn.net/v3/fetch/fc/fc813e57424d1ad9576f9066812f670f.jpeg");
+    background-repeat: repeat-y;
+    
+}
+h1, h3, h4{
+    color:rgb(253, 253, 253);
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    
+    height: 600px;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    border: 3px solid rgb(218, 203, 203);
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+.divClass{
+    display: grid;
+    text-align-last: center;
+}
+#thirdDiv{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
